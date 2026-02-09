@@ -39,7 +39,7 @@ The Excel dashboard highlights:
 
 ## 📊 Dashboard Preview
 ![Pizza Sales Dashboard](Pizzas%20Sales%20Dashboard.png)
-<img width="1182" height="654" alt="Pizzas Sales Dashboard" src="https://github.com/user-attachments/assets/ef889aea-4f6e-4974-aa3a-6b7ba35d79c3" />
+
 
 ---
 
